@@ -1,0 +1,11 @@
+FirstName,LastName,SamAccountName,OU,Password
+Max,Mustermann,mmustermann,OU=Users,DC=test,DC=lab,P@ssword123!
+Erika,Musterfrau,emusterfrau,OU=Users,DC=test,DC=lab,P@ssword123!
+Thomas,Schmidt,tschmidt,OU=Users,DC=test,DC=lab,P@ssword123!
+Laura,Maier,lmaier,OU=Users,DC=test,DC=lab,P@ssword123!
+Jan,Keller,jkeller,OU=Users,DC=test,DC=lab,P@ssword123!
+Sarah,Huber,shuber,OU=Users,DC=test,DC=lab,P@ssword123!
+Peter,Fischer,pfischer,OU=Users,DC=test,DC=lab,P@ssword123!
+Julia,Bauer,jbauer,OU=Users,DC=test,DC=lab,P@ssword123!
+Lukas,Wagner,lwagner,OU=Users,DC=test,DC=lab,P@ssword123!
+Nina,Becker,nbecker,OU=Users,DC=test,DC=lab,P@ssword123!
